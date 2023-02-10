@@ -1,0 +1,11 @@
+Package: SPRING234753bart0074
+Type: Package
+Title: Math 4753 package
+Version: 0.1.0
+Author: Michael Bartlett
+Maintainer: Michael Bartlett <michael@ou.edu>
+Description: Package with utility functions for Applied Statistical methods.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
